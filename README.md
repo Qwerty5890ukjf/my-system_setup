@@ -1,4 +1,5 @@
 I created this rep to automatize windows installing, as i hate installing apps and configuring my laptop every time i reinstall OS, it takes so much time.
+I use this rep by myself, so just ignore my .json and .reg files
 
 STEP 1:  before reinstalling OS ,make sure u launch  in powershell 
      *.\backup.ps1*  and    *winget export -o packages.json*
