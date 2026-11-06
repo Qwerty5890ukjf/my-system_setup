@@ -1,3 +1,5 @@
+I created this rep to automatize windows installing, as i hate installing and configuring my laptop every time i reinstall OS, it takes so much time.
+
 STEP 1:  before reinstalling OS ,make sure u launch  in powershell 
      *.\backup.ps1*  and    *winget export -o packages.json*
 
